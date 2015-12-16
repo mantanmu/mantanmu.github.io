@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Hello Mantan!! [#!/bin/bash]]]></title>
-  <link href="http://mantanmu.github.io/atom.xml" rel="self"/>
-  <link href="http://mantanmu.github.io/"/>
-  <updated>2015-12-16T16:08:37+07:00</updated>
-  <id>http://mantanmu.github.io/</id>
-  <author>
-    <name><![CDATA[Mantan kamu. Iya.. KAMU!!]]></name>
-    <email><![CDATA[mantanganteng@gmail.com]]></email>
-  </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
+    <title><![CDATA[Hello Mantan!! [#!/bin/bash]]]></title>
+    <link href="http://mantanmu.github.io/atom.xml" rel="self"/>
+    <link href="http://mantanmu.github.io/"/>
+    <updated>2015-12-16T16:16:52+07:00</updated>
+    <id>http://mantanmu.github.io/</id>
+    <author>
+        <name><![CDATA[Mantan kamu. Iya.. KAMU!!]]></name>
+        <email><![CDATA[mantanganteng@gmail.com]]></email>
+    </author>
+    <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Hello Mantan]]></title>
-    <link href="http://mantanmu.github.io/blog/2015/12/16/hello-mantan/"/>
-    <updated>2015-12-16T16:07:09+07:00</updated>
-    <id>http://mantanmu.github.io/blog/2015/12/16/hello-mantan</id>
-    <content type="html"><![CDATA[
+    
+    <entry>
+        <title type="html"><![CDATA[Hello Mantan]]></title>
+        <link href="http://mantanmu.github.io/blog/2015/12/16/hello-mantan/"/>
+        <updated>2015-12-16T16:07:09+07:00</updated>
+        <id>http://mantanmu.github.io/blog/2015/12/16/hello-mantan</id>
+        <content type="html"><![CDATA[
 ]]></content>
-  </entry>
-  
+    </entry>
+    
 </feed>
