@@ -4,7 +4,7 @@
   <title><![CDATA[Hello Mantan!! [#!/bin/bash]]]></title>
   <link href="http://mantanmu.github.io/atom.xml" rel="self"/>
   <link href="http://mantanmu.github.io/"/>
-  <updated>2015-12-16T16:00:21+07:00</updated>
+  <updated>2015-12-16T16:07:23+07:00</updated>
   <id>http://mantanmu.github.io/</id>
   <author>
     <name><![CDATA[Mantan kamu. Iya.. KAMU!!]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Mantan]]></title>
+    <link href="http://mantanmu.github.io/blog/2015/12/16/hello-mantan/"/>
+    <updated>2015-12-16T16:07:09+07:00</updated>
+    <id>http://mantanmu.github.io/blog/2015/12/16/hello-mantan</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
