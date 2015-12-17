@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://mantanmu.github.io/sitemap.xml
