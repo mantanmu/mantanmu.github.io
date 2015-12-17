@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-    <title><![CDATA[Hello Mantan!! [#!/bin/bash]]]></title>
-    <link href="http://mantanmu.github.io/atom.xml" rel="self"/>
-    <link href="http://mantanmu.github.io/"/>
-    <updated>2015-12-17T23:01:46+07:00</updated>
-    <id>http://mantanmu.github.io/</id>
-    <author>
-        <name><![CDATA[Mantan kamu. Iya.. KAMU!!]]></name>
-        <email><![CDATA[mantanganteng@gmail.com]]></email>
-    </author>
-    <generator uri="http://octopress.org/">Octopress</generator>
+  <title><![CDATA[Hello Mantan!! [#!/bin/bash]]]></title>
+  <link href="http://mantanmu.github.io/atom.xml" rel="self"/>
+  <link href="http://mantanmu.github.io/"/>
+  <updated>2015-12-17T23:11:05+07:00</updated>
+  <id>http://mantanmu.github.io/</id>
+  <author>
+    <name><![CDATA[Mantan kamu. Iya.. KAMU!!]]></name>
+    <email><![CDATA[mantanganteng@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
-    
-    <entry>
-        <title type="html"><![CDATA[Kamu Apa kabar?]]></title>
-        <link href="http://mantanmu.github.io/blog/2015/12/17/kamu-apa-kabar/"/>
-        <updated>2015-12-17T22:40:29+07:00</updated>
-        <id>http://mantanmu.github.io/blog/2015/12/17/kamu-apa-kabar</id>
-        <content type="html"><![CDATA[<h1>Dear Mantan</h1>
+  
+  <entry>
+    <title type="html"><![CDATA[Kamu Apa kabar?]]></title>
+    <link href="http://mantanmu.github.io/blog/2015/12/17/kamu-apa-kabar/"/>
+    <updated>2015-12-17T22:40:29+07:00</updated>
+    <id>http://mantanmu.github.io/blog/2015/12/17/kamu-apa-kabar</id>
+    <content type="html"><![CDATA[<h1>Dear Mantan</h1>
 
 <p>Kamu apa kabar? Masih sering bikin hati laki - laki berantakan?.</p>
 ]]></content>
-    </entry>
-    
-    <entry>
-        <title type="html"><![CDATA[Hello Mantan]]></title>
-        <link href="http://mantanmu.github.io/blog/2015/12/16/hello-mantan/"/>
-        <updated>2015-12-16T16:07:09+07:00</updated>
-        <id>http://mantanmu.github.io/blog/2015/12/16/hello-mantan</id>
-        <content type="html"><![CDATA[
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Mantan]]></title>
+    <link href="http://mantanmu.github.io/blog/2015/12/16/hello-mantan/"/>
+    <updated>2015-12-16T16:07:09+07:00</updated>
+    <id>http://mantanmu.github.io/blog/2015/12/16/hello-mantan</id>
+    <content type="html"><![CDATA[
 ]]></content>
-    </entry>
-    
+  </entry>
+  
 </feed>
